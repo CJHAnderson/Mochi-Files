@@ -1,0 +1,1 @@
+These are word cards written in markup intended for study using the Mochi app. They have some Japanese in them as they are designed for Japanese students learning English, but everyone is welcome to use them.
